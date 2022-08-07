@@ -1,4 +1,4 @@
-module slibs
+module github.com/suiguo/libs
 
 go 1.18
 
