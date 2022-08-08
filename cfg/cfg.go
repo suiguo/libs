@@ -2,11 +2,12 @@ package cfg
 
 import (
 	"encoding/json"
-	"ngin/libs/elastic"
-	"ngin/libs/logger"
-	"ngin/libs/mysql"
-	"ngin/libs/redis"
 	"os"
+
+	"github.com/suiguo/libs/elastic"
+	"github.com/suiguo/libs/logger"
+	"github.com/suiguo/libs/mysql"
+	"github.com/suiguo/libs/redis"
 )
 
 /*

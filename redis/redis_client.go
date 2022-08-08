@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"ngin/libs/logger"
+	"github.com/suiguo/libs/logger"
 
 	"github.com/go-redis/redis"
 )
